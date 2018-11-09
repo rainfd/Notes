@@ -14,3 +14,10 @@ link: https://mp.weixin.qq.com/s/DNLbVuCSR-dOk6VgQg5MGw
 
 
 
+## DevOps & SRE 必备技能清单
+
+link: ZH http://www.infoq.com/cn/articles/the-must-know-checklist-for-devops-and-sre?utm_source=infoq&utm_campaign=footer_links&tm_medium=footer_links_news_page
+      EN http://www.infoq.com/cn/articles/the-must-know-checklist-for-devops-and-sre?utm_source=infoq&utm_campaign=footer_links&tm_medium=footer_links_news_page
+
+一个很详细具体的技能清单，值得一项一项慢慢学习
+
